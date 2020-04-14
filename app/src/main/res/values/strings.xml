@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcular Salario</string>
+    <string name="titulo">Calcular Salario.</string>
+    <string name="horas">Ingrese las horas trabajadas.</string>
+    <string name="valorh">Ingrese el valor de las horas.</string>
+    <string name="boton">Calcular.</string>
+
+</resources>
